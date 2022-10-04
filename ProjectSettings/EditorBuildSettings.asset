@@ -47,4 +47,7 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Challenge.unity
+    guid: e4b51d41d55a8401db32efa6c324a4d8
   m_configObjects: {}
