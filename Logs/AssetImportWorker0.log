@@ -213,3 +213,251 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 894.106071 seconds.
+  path: Assets/Challenge.unity
+  artifactKey: Guid(e4b51d41d55a8401db32efa6c324a4d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Challenge.unity using Guid(e4b51d41d55a8401db32efa6c324a4d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0240b2151ea75f4fce321e8e31717450') in 0.008552 seconds 
+  Import took 0.011464 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001718 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.970 seconds
+Domain Reload Profiling:
+	ReloadAssembly (970ms)
+		BeginReloadAssembly (113ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (52ms)
+		EndReloadAssembly (802ms)
+			LoadAssemblies (59ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (292ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (274ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (76ms)
+				ProcessInitializeOnLoadAttributes (182ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1994 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 211.7 MB.
+System memory in use after: 211.8 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2562.
+Total: 2.300803 ms (FindLiveObjects: 0.136780 ms CreateObjectMapping: 0.059054 ms MarkObjects: 2.093624 ms  DeleteObjects: 0.010851 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2106.273802 seconds.
+  path: Assets/2DGamekit/Art/Animations/AnimationClips/Enemies/Gunner
+  artifactKey: Guid(e0ce07c6c3264fc4f904822920daea5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Animations/AnimationClips/Enemies/Gunner using Guid(e0ce07c6c3264fc4f904822920daea5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9577f020357b84e1634c0d1c4c852ea') in 0.003131 seconds 
+  Import took 0.006106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.899395 seconds.
+  path: Assets/2DGamekit/Art/Animations/AnimationClips/Enemies/Gunner/GunnerCutscene
+  artifactKey: Guid(b9eed79d39be53d41834d7ecc1960d6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Animations/AnimationClips/Enemies/Gunner/GunnerCutscene using Guid(b9eed79d39be53d41834d7ecc1960d6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abf31b1fc372d194e7d80a8fbd639328') in 0.000935 seconds 
+  Import took 0.003584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.603831 seconds.
+  path: Assets/2DGamekit/Art/Animations/AnimationClips/Enemies/Spitter
+  artifactKey: Guid(728ac7e5683a17748baee7c132602493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Animations/AnimationClips/Enemies/Spitter using Guid(728ac7e5683a17748baee7c132602493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25ca07018e575d383b4e296ce1037007') in 0.001030 seconds 
+  Import took 0.003802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 159.721192 seconds.
+  path: Assets/2DGamekit/Art/Sprites/AnimatedSprites/Ellen/Animations/Jump/Anim_JUMP_09.png
+  artifactKey: Guid(ae6184443cb4d0f439bab73e9e76df4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Sprites/AnimatedSprites/Ellen/Animations/Jump/Anim_JUMP_09.png using Guid(ae6184443cb4d0f439bab73e9e76df4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17123229a55386e0777f9fc9512fd2d0') in 0.835865 seconds 
+  Import took 0.841531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/2DGamekit/Art/Sprites/AnimatedSprites/Ellen/Animations/Jump/Anim_JUMP_11.png
+  artifactKey: Guid(7dcbef0330b37354dae1c1071956813a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Sprites/AnimatedSprites/Ellen/Animations/Jump/Anim_JUMP_11.png using Guid(7dcbef0330b37354dae1c1071956813a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf42be4b4996dd0230da4eeb68d89021') in 0.007959 seconds 
+  Import took 0.010543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/2DGamekit/Art/Sprites/AnimatedSprites/Ellen/Animations/Jump/Anim_JUMP_10.png
+  artifactKey: Guid(fcec6de5f73f3b74480aa66ffac97f43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Sprites/AnimatedSprites/Ellen/Animations/Jump/Anim_JUMP_10.png using Guid(fcec6de5f73f3b74480aa66ffac97f43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b15dca8bc4a931a72ea31556d756f15') in 0.007082 seconds 
+  Import took 0.009640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/2DGamekit/Art/Sprites/AnimatedSprites/Ellen/Animations/Jump/Anim_JUMP_15.png
+  artifactKey: Guid(13aa9a4a1bc68064c9e5e17a86df2666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Sprites/AnimatedSprites/Ellen/Animations/Jump/Anim_JUMP_15.png using Guid(13aa9a4a1bc68064c9e5e17a86df2666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1693ecb9b2f50107f9653334ee453c9') in 0.007168 seconds 
+  Import took 0.009863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/2DGamekit/Art/Sprites/AnimatedSprites/Ellen/Animations/Jump/Anim_JUMP_13.png
+  artifactKey: Guid(fffa3e12c34c2ee448d46f5c9db142e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Sprites/AnimatedSprites/Ellen/Animations/Jump/Anim_JUMP_13.png using Guid(fffa3e12c34c2ee448d46f5c9db142e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98b60d86520d87d6c29887e69912aec9') in 0.007333 seconds 
+  Import took 0.009830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/2DGamekit/Art/Sprites/AnimatedSprites/Ellen/Animations/Jump/Anim_JUMP_12.png
+  artifactKey: Guid(ca897d165bbb9094584da008d90d3df5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Sprites/AnimatedSprites/Ellen/Animations/Jump/Anim_JUMP_12.png using Guid(ca897d165bbb9094584da008d90d3df5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce7b979fe981f0d557d89e6f4a5e8550') in 0.008819 seconds 
+  Import took 0.011360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/2DGamekit/Art/Sprites/AnimatedSprites/Ellen/Animations/Jump/Anim_JUMP_14.png
+  artifactKey: Guid(5b31577ecf5954448b0d92a2c8a0501b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Sprites/AnimatedSprites/Ellen/Animations/Jump/Anim_JUMP_14.png using Guid(5b31577ecf5954448b0d92a2c8a0501b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a26aa89891237e7aeeff7a46bf085421') in 0.007306 seconds 
+  Import took 0.009815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.894259 seconds.
+  path: Assets/2DGamekit/Art/Sprites/AnimatedSprites/Ellen/Animations/Jump/Anim_JUMP_02.png
+  artifactKey: Guid(e4381a10685b28d4f906cc686ecbc2c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Sprites/AnimatedSprites/Ellen/Animations/Jump/Anim_JUMP_02.png using Guid(e4381a10685b28d4f906cc686ecbc2c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c1cb3fbb22ad66ff9ebb10c659eb339') in 0.007325 seconds 
+  Import took 0.010141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.230732 seconds.
+  path: Assets/2DGamekit/Art/Sprites/AnimatedSprites/Ellen/Animations/Jump/Anim_JUMP_04.png
+  artifactKey: Guid(affa4f4470b317440b7cb5187df710ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Sprites/AnimatedSprites/Ellen/Animations/Jump/Anim_JUMP_04.png using Guid(affa4f4470b317440b7cb5187df710ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c93c05ce947ef442f604b7fbf05b69bf') in 0.007405 seconds 
+  Import took 0.010230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017114 seconds.
+  path: Assets/2DGamekit/Art/Sprites/AnimatedSprites/Ellen/Animations/Jump/Anim_JUMP_05.png
+  artifactKey: Guid(4214a14962bcf4943baf9e184b9b928e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Sprites/AnimatedSprites/Ellen/Animations/Jump/Anim_JUMP_05.png using Guid(4214a14962bcf4943baf9e184b9b928e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0c2bf30665eb1797c2688e255855cc4') in 0.007322 seconds 
+  Import took 0.010300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.288702 seconds.
+  path: Assets/2DGamekit/Art/Sprites/AnimatedSprites/Ellen/Animations/Jump/Anim_JUMP_07.png
+  artifactKey: Guid(af68c0be2e67f3846bcdf33841f8312b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Sprites/AnimatedSprites/Ellen/Animations/Jump/Anim_JUMP_07.png using Guid(af68c0be2e67f3846bcdf33841f8312b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db04593761a60497bc97bd1a94c9cb26') in 0.007679 seconds 
+  Import took 0.010456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.262755 seconds.
+  path: Assets/2DGamekit/Art/Sprites/AnimatedSprites/Ellen/Animations/Jump/Anim_JUMP_03.png
+  artifactKey: Guid(6f8b0a53ff8c9e94f9d4af829e2ad6f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Sprites/AnimatedSprites/Ellen/Animations/Jump/Anim_JUMP_03.png using Guid(6f8b0a53ff8c9e94f9d4af829e2ad6f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '432062ce1a563a4d2309e60b153527eb') in 0.010534 seconds 
+  Import took 0.013638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.214464 seconds.
+  path: Assets/2DGamekit/Art/Sprites/AnimatedSprites/Ellen/Animations/Jump/Anim_JUMP_06.png
+  artifactKey: Guid(bb6a891737c56e6438e808fb4e716321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Sprites/AnimatedSprites/Ellen/Animations/Jump/Anim_JUMP_06.png using Guid(bb6a891737c56e6438e808fb4e716321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a0ee8cefed976891c02436064c7a354') in 0.010389 seconds 
+  Import took 0.013207 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003070 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.970 seconds
+Domain Reload Profiling:
+	ReloadAssembly (970ms)
+		BeginReloadAssembly (103ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (51ms)
+		EndReloadAssembly (812ms)
+			LoadAssemblies (61ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (299ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (277ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (79ms)
+				ProcessInitializeOnLoadAttributes (183ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1994 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 219.2 MB.
+System memory in use after: 219.3 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2580.
+Total: 2.501625 ms (FindLiveObjects: 0.161597 ms CreateObjectMapping: 0.078793 ms MarkObjects: 2.248121 ms  DeleteObjects: 0.012152 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
